@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harsh-Kumar69
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on WebDev Projects
+- 💞️ I’m looking to collaborate on WebDev Project
 
 
 
